@@ -1,0 +1,1226 @@
+[bg_music_foi bgstr="kyoushitsu1-3.jpg" musicstr="04.Store.ogg"]
+
+その翌朝。[lc]
+
+
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=6 effect=6]
+[s_show name="saki" zoom=ba]
+[chara_part name=miu body=1 eye=5 mouth=9 eyeblow=1 effect=0]
+[chara_add name="miu" org="saki" zoom=ba size=small]
+#早希
+おっはー榊原くーん！！[lc]
+#榊原
+はいおはよ、今日も朝から騒々しいことで。[lc]
+[chara_part name=saki body=1 eye=10 mouth=4 eyeblow=3 effect=6]
+[chara_hide name="miu]
+#早希
+失敬な、元気いっぱいって言ってよ！[lc]
+#榊原
+安達さんもおはよう。 [lc]
+[chara_part name=saki body=1 eye=1 mouth=2 eyeblow=1 effect=6]
+[chara_part name=miu body=1 eye=4 mouth=1 eyeblow=1 effect=0]
+[chara_add name="miu" org="saki" zoom=ma size=small]
+#美羽
+……ふん。[lc]
+
+#
+すっかり日常となった朝のやり取り。[lr]
+何だか安心感すらある。[lc]
+
+
+[chara_part name=saki body=1 eye=1 mouth=6 eyeblow=1 effect=6]
+[chara_hide name="miu]
+#早希
+榊原くん、今日集まる？[lc]
+#榊原
+集まってもいいけど、俺はウィリスにハンカチ返しに行くから。[lc]
+[chara_part name=saki body=1 eye=1 mouth=6 eyeblow=1 effect=6]
+[chara_part name=miu body=1 eye=5 mouth=9 eyeblow=1 effect=0]
+[chara_add name="miu" org="saki" zoom=ma size=small]
+#美羽
+えっ。[lc]
+
+#
+俺の言葉に驚いた様子の安達さん。[lr]
+普段じゃ見れないリアクションに、こっちまでびっくりする。[lc]
+
+#榊原
+何だ？[lc]
+[chara_part name=miu body=1 eye=5 mouth=9 eyeblow=1 effect=0]
+[chara_hide name="saki]
+#美羽
+ウィリスって、生徒会長よね？[lr]
+何あんた、生徒会長からハンカチ借りたの？[lc]
+#榊原
+まぁそうだな、何か変か？[lc]
+[chara_part name=miu body=1 eye=1 mouth=4 eyeblow=1 effect=0]
+#美羽
+いや、変じゃないけど……何で生徒会長から借りたわけ？[lc]
+#榊原
+あっいや、それは……。[lc]
+[chara_part name=miu body=1 eye=1 mouth=1 eyeblow=1 effect=0]
+[chara_part name=saki body=1 eye=1 mouth=6 eyeblow=6 effect=6]
+[chara_add name="saki" org="miu" zoom=ma size=small]
+#早希
+それが聞いてよ美羽ちゃん！[lr]
+榊原くんったらね、会長さんを見た途端、わーって泣き出しちゃって！[lc]
+[chara_part name=miu body=1 eye=2 mouth=2 eyeblow=4 effect=5]
+[chara_part name=saki body=1 eye=1 mouth=6 eyeblow=6 effect=6]
+#美羽
+っ……何それ、本当？[lc]
+
+#
+安達さん、声の震えが隠せてないんだが。[lr]
+いや、隠す気がないだけか？[lc]
+
+
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=6 effect=6]
+[chara_hide name="miu]
+#早希
+ホントホント！
+んで、会長さんがハンカチ貸してくれたんだよ。[lc]
+[chara_part name=miu body=1 eye=1 mouth=5 eyeblow=1 effect=0]
+[chara_hide name="saki]
+[s_show name="miu" zoom=ma]
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=6 effect=6]
+#美羽
+よかったじゃん、生徒会長と接点持てるなんて。[lr]
+そこらのミーハーからしたら羨ましい限りでしょうよ。[lc]
+#榊原
+そう言えば、昨日早希が有名人だって言ってたよな。[lr]
+安達さんも知ってるみたいだし、本当に有名人なんだ？[lc]
+[chara_part name=miu body=1 eye=1 mouth=1 eyeblow=1 effect=0]
+[chara_part name=saki body=1 eye=1 mouth=6 eyeblow=6 effect=6]
+#早希
+そりゃそうだよ！[lr]
+[chara_part name=miu body=1 eye=1 mouth=1 eyeblow=1 effect=0]
+[chara_part name=saki body=1 eye=7 mouth=6 eyeblow=6 effect=6]
+#早希
+後を絶たない！[lr]
+正しく完璧男子！[lc]
+#榊原
+完璧……男子？
+[chara_part name=miu body=1 eye=1 mouth=1 eyeblow=1 effect=0]
+[chara_part name=saki body=1 eye=7 mouth=6 eyeblow=6 effect=6]
+#早希
+そう、完璧男子！！[lc]
+[chara_part name=miu body=1 eye=1 mouth=4 eyeblow=1 effect=0]
+[chara_part name=saki body=1 eye=7 mouth=6 eyeblow=6 effect=6]
+#美羽
+完璧と言えば、噂だけど楽器もできるらしいわね。[lr]
+ピアノとかヴァイオリンとか。[lc]
+[chara_part name=miu body=1 eye=1 mouth=4 eyeblow=1 effect=0]
+[chara_part name=saki body=1 eye=1 mouth=6 eyeblow=1 effect=6]
+#早希
+結構噂多いよね、お家がすーんごいお金持ちとか。[lr]
+これは本当らしいけど。[lc]
+[chara_part name=miu body=1 eye=4 mouth=5 eyeblow=4 effect=0]
+[chara_part name=saki body=1 eye=1 mouth=6 eyeblow=1 effect=6]
+#美羽
+でも、チビよね。[lc]
+[chara_part name=miu body=1 eye=4 mouth=5 eyeblow=4 effect=0]
+[chara_part name=saki body=1 eye=3 mouth=6 eyeblow=5 effect=6]
+#早希
+あー確かに小さいね。[lc]
+
+#
+何か盛り上がってるなぁ、2人。[lc]
+
+
+[chara_part name=miu body=1 eye=3 mouth=4 eyeblow=1 effect=0]
+[chara_part name=saki body=1 eye=3 mouth=6 eyeblow=5 effect=6]
+#美羽
+まぁ、どんなに完璧な奴にも1つくらいは難点ないと。[lr]
+じゃなきゃ、世の男共が発狂するわよ。[lc]
+[chara_part name=miu body=1 eye=3 mouth=4 eyeblow=1 effect=0]
+[chara_part name=saki body=1 eye=1 mouth=6 eyeblow=1 effect=6]
+#早希
+そだねー、あんまりにも非の打ち所がないってのも人間味ないし。[lc]
+#榊原
+……2人もそういう目で見てたりするのか？[lc]
+[chara_part name=miu body=1 eye=3 mouth=4 eyeblow=1 effect=0]
+[chara_part name=saki body=1 eye=3 mouth=6 eyeblow=5 effect=6]
+#早希
+いやー、私はないかな。[lr]
+すごい人だとは思ってるけど。[lc]
+[chara_part name=miu body=1 eye=7 mouth=10 eyeblow=3 effect=0]
+[chara_part name=saki body=1 eye=3 mouth=6 eyeblow=5 effect=6]
+#美羽
+あんなバカなミーハーと一緒にしないでくれる？[lc]
+#榊原
+そうなんだ。[lr]
+ところで安達さん、今日はよく喋るな。[lc]
+
+
+[chara_part name=miu body=1 eye=5 mouth=9 eyeblow=1 effect=0]
+[chara_hide name="saki]
+一瞬キョトンとした安達さんは。[lc]
+
+
+[chara_part name=miu body=1 eye=5 mouth=10 eyeblow=3 effect=0]
+#美羽
+…………ハッ！？
+
+#
+それっきり、安達さんは机に伏せってしまった。[lc]
+
+
+[chara_part name=saki body=1 eye=10 mouth=4 eyeblow=6 effect=6]
+[chara_hide name="miu]
+[s_show name="saki" zoom=ma]
+#早希
+榊原くん、何で言っちゃうかなー！[lr]
+せっかく上手くいってると思ったのにー！[lc]
+#榊原
+ごめん、嬉しくてつい。[lc]
+[chara_hide_all]
+#美羽
+…………嬉しいって、何がよ…………。[lc]
+#榊原
+いや、安達さんがいつもより話してくれたから。[lc]
+[chara_part name=miu body=1 eye=9 mouth=10 eyeblow=3 effect=0]
+[chara_hide name="saki]
+[s_show name="miu" zoom=ma]
+#美羽
+答えんじゃないわよバカ！！[lc]
+
+#
+それを最後に、本当に何も反応が返ってこなくなった。[lr]
+
+[bg_music_foi bgstr="rouka1-3.jpg" musicstr="16.aiwohitohira.ogg"]
+
+放課後、俺は予定通り生徒会室に来ていた。[lr]
+早希は小夜を連れて部室に行ってるそうだ。[lc]
+
+#榊原
+…………ふー……。[lc]
+
+#
+いざ生徒会室の前まで来ると、何故か少し緊張する。[lr]
+しばらくして、ドアが開いた。[lc]
+
+
+[chara_part name=ciel body=1 eye=15 mouth=1 eyeblow=1 effect=0]
+[chara_hide name="miu]
+[s_show name="ciel" zoom=ba]
+#シエル
+おや、榊原君？[lc]
+
+#
+出てきたのはウィリスだった。[lr]
+よかった、桜庭さんだったらどうしようかと。[lc]
+
+
+[chara_part name=ciel body=1 eye=11 mouth=8 eyeblow=2 effect=0]
+#シエル
+今日はどうしましたか？[lc]
+#榊原
+昨日借りたハンカチ、返しに来た。[lc]
+
+#
+かけたっけなぁ。[lc]
+
+
+[chara_part name=ciel body=1 eye=11 mouth=2 eyeblow=2 effect=0]
+#シエル
+ああ、ありがとうございます。[lc]
+
+#
+ウィリスはハンカチを受け取ってポケットにしまう。[lr]
+本当はそれで帰るつもりだったが。[lc]
+
+
+[chara_part name=ciel body=1 eye=11 mouth=2 eyeblow=2 effect=0]
+#シエル
+せっかくですので、少しお話しませんか？[lc]
+#榊原
+え？[lc]
+[chara_part name=ciel body=1 eye=11 mouth=6 eyeblow=2 effect=0]
+#シエル
+生徒会室に僕1人だけなんです。[lr]
+#榊原
+まぁ、俺でいいなら……。[lc]
+[chara_part name=ciel body=1 eye=6 mouth=6 eyeblow=2 effect=0]
+#シエル
+ありがとうございます！[lc]
+
+#
+中へ促してくるウィリスの笑顔に、昨日と全く同じ懐かしさを覚える。[lr]
+丁度いいし、本人に聞いてみよう。[lr]
+こんな絶好の機会がまたあるとは限らないし。[lc]
+
+[bg_music_foi bgstr="seitokaishitsu1-2.jpg" musicstr="50.adabana.ogg"]
+
+
+[chara_part name=ciel body=1 eye=11 mouth=2 eyeblow=2 effect=0]
+#シエル
+こちらに座って下さい。[lc]
+#榊原
+ああ。[lc]
+
+#
+昨日と同じソファーに座ると、ウィリスはウォーターサーバーの[r]
+隣にある棚を開ける。[lc]
+
+
+[chara_hide_all]
+#シエル
+何か飲みますか？[lr]
+と言っても、コーヒーか紅茶しかありませんが。[lc]
+#榊原
+貰っていいのか？[lc]
+
+#シエル
+ええ、どうぞ遠慮せず。[lc]
+#榊原
+じゃあ……紅茶。[lc]
+
+#シエル
+茶葉はどうします？[lr]
+色々揃えてありますよ。[lc]
+#榊原
+えーっと、ごめん……そういうの、あんまり詳しくないんだ。[lr]
+ウィリスに任せていいか？[lc]
+
+#シエル
+では、アールグレイにしますね。[lr]
+#榊原
+いや、いらない。[lc]
+
+#シエル
+分かりました。[lc]
+
+#
+回しながらしばらく待つと、ソーサーに乗せたカップごと盆に乗せて[r]
+持ってきた。[lc]
+
+
+[chara_part name=ciel body=1 eye=11 mouth=6 eyeblow=2 effect=0]
+#シエル
+お待たせしました、熱いのでお気をつけて。[lc]
+#榊原
+ありがとう。[lc]
+
+#
+カップに紅茶を注いだウィリスが正面に腰掛ける。[lr]
+湯気が立つ紅茶に慎重に口をつけた。[lc]
+
+#榊原
+美味いな、いい香りだし。[lc]
+[chara_part name=ciel body=1 eye=11 mouth=2 eyeblow=2 effect=0]
+#シエル
+お気に召してもらえたなら何よりです。[lc]
+
+#
+ウィリスは丁寧にソーサーまで持って紅茶を飲んでる。[lr]
+…………たまらなく、懐かしい。[lr]
+俺はこいつを知ってる……そうじゃなきゃ辻褄が合わないくらいに。[lc]
+
+#榊原
+…………なぁ、ウィリス。[lc]
+[chara_part name=ciel body=1 eye=11 mouth=2 eyeblow=1 effect=0]
+#シエル
+何ですか？[lc]
+#榊原
+変なこと聞くけど……俺達、会ったことあるか？[lc]
+[chara_part name=ciel body=1 eye=15 mouth=1 eyeblow=1 effect=0]
+#シエル
+──────。
+#榊原
+顔見知り程度でもいいんだ、俺と会ったことないか？[lc]
+[chara_part name=ciel body=1 eye=13 mouth=1 eyeblow=4 effect=0]
+#シエル
+……………………。
+[chara_part name=ciel body=1 eye=6 mouth=6 eyeblow=1 effect=0]
+#シエル
+……何を言ってるんです。[lr]
+僕と君は昨日が初対面ですよ。[lc]
+#榊原
+え。[lc]
+
+#
+絶対に会ったことがある、こいつは昔の俺を知ってる。[lr]
+そんな確信があっただけに、その一言に愕然とする。[lc]
+
+#榊原
+初対面…………？
+[chara_part name=ciel body=1 eye=7 mouth=2 eyeblow=1 effect=0]
+#シエル
+ええ[lc]
+#榊原
+…………そんな…………。[lc]
+[chara_part name=ciel body=1 eye=11 mouth=4 eyeblow=1 effect=0]
+#シエル
+君は僕に会った覚えがあるんですか？[lc]
+#榊原
+…………分からない。[lc]
+[chara_part name=ciel body=1 eye=11 mouth=1 eyeblow=5 effect=0]
+#シエル
+分からない？[lc]
+#榊原
+……少し、話していいか？[lc]
+[chara_part name=ciel body=1 eye=11 mouth=2 eyeblow=1 effect=0]
+#シエル
+どうぞ。[lc]
+#榊原
+[chara_part name=ciel body=1 eye=11 mouth=1 eyeblow=1 effect=0]
+#シエル
+記憶……。
+#榊原
+うちの部員の古藤小夜と、それからお前。[lc]
+[chara_part name=ciel body=1 eye=15 mouth=8 eyeblow=1 effect=0]
+#シエル
+……………………。
+#榊原
+小夜にもお前にも、どこかで会ったことがある気がしてならない。[lr]
+[chara_part name=ciel body=1 eye=11 mouth=1 eyeblow=1 effect=0]
+#シエル
+……なるほど、事情は理解しました。[lc]
+[chara_part name=ciel body=1 eye=13 mouth=1 eyeblow=4 effect=0]
+#シエル
+残念ながら、僕は君が欲しがっている情報は持っていません。[lr]
+お力になれず、申し訳ありませんが。[lc]
+#榊原
+いや、お前が謝ることじゃないよ。[lc]
+[chara_part name=ciel body=1 eye=13 mouth=2 eyeblow=1 effect=0]
+#シエル
+記憶……早く戻るといいですね。[lc]
+#榊原
+……本当にな。[lc]
+
+#
+少し冷めた紅茶に口をつける。[lr]
+そう言えば、ウィリスの家は金持ちだって早希が言ってたような……。[lr]
+そういう家の人間だと、所作から凡人とは格が違うんだな。[lc]
+
+
+[chara_part name=ciel body=1 eye=11 mouth=1 eyeblow=1 effect=0]
+#シエル
+先程、最近に転校してきたと仰いましたよね。[lc]
+#榊原
+ん？　ああ。[lc]
+[chara_part name=ciel body=1 eye=11 mouth=2 eyeblow=2 effect=0]
+#シエル
+どうです、学校は慣れましたか？[lc]
+#榊原
+んー、ぼちぼちって感じ。[lr]
+[chara_part name=ciel body=1 eye=11 mouth=1 eyeblow=1 effect=0]
+#シエル
+……なるほど。[lc]
+#榊原
+でも、敷地広いよな、この学校。[lr]
+前のはもっと狭かったよ、公立だからかもしれないけど。[lc]
+[chara_part name=ciel body=1 eye=11 mouth=2 eyeblow=2 effect=0]
+#シエル
+昔はもっと広かったことをご存知ですか？[lc]
+#榊原
+えっ？[lc]
+
+#
+飲もうとした紅茶から思わず口を離して、ウィリスの顔を見た。[lc]
+
+
+[chara_part name=ciel body=1 eye=11 mouth=4 eyeblow=1 effect=0]
+#シエル
+敷地ごと手放してしまったそうです。[lr]
+学校の裏手にある教会がそれです。[lc]
+#榊原
+教会の存在自体知らなかったな。[lc]
+[chara_part name=ciel body=1 eye=11 mouth=2 eyeblow=2 effect=0]
+#シエル
+一度見てみる価値はあると思いますよ。[lr]
+教育機関の設備だった物にしては文化的水準の高い建造物なので。[lc]
+[chara_part name=ciel body=1 eye=13 mouth=1 eyeblow=2 effect=0]
+#シエル
+……僕はあまり好きじゃありませんけど。[lc]
+#榊原
+え？[lc]
+
+#
+ウィリスは窓に目を向ける。[lr]
+
+
+[chara_part name=ciel body=1 eye=13 mouth=4 eyeblow=1 effect=0]
+#シエル
+もし天城学園が未だにミッションスクールだったら、僕はここには[r]
+入学していなかったでしょうし。[lc]
+#榊原
+……無神論者ってやつか？[lc]
+[chara_part name=ciel body=1 eye=13 mouth=2 eyeblow=2 effect=0]
+#シエル
+ご想像にお任せします。[lc]
+
+#
+綺麗に微笑んでいた。[lr]
+
+
+[chara_part name=ciel body=1 eye=11 mouth=2 eyeblow=2 effect=0]
+#シエル
+すっかり話し込んでしまいましたね。[lc]
+#榊原
+ん……ああ。[lc]
+[chara_part name=ciel body=1 eye=12 mouth=2 eyeblow=4 effect=0]
+#シエル
+僕の休憩に付き合わせて申し訳ありませんでした。[lc]
+#榊原
+いいよ、俺も楽しかったし。[lc]
+[chara_part name=ciel body=1 eye=11 mouth=2 eyeblow=2 effect=0]
+#シエル
+それは良かった。[lc]
+[chara_part name=ciel body=1 eye=11 mouth=6 eyeblow=2 effect=0]
+#シエル
+ああ、ついでに……。[lc]
+
+#
+ウィリスは会長席に向かい、その陰から何か紙袋を取り出した。[lc]
+
+
+[chara_part name=ciel body=1 eye=11 mouth=6 eyeblow=2 effect=0]
+#シエル
+どうぞ。[lr]
+学生支援同好会の方々と食べて下さい。[lc]
+#榊原
+あ、ありがと……。[lc]
+
+#
+受け取って紙袋の中身を軽く見てみると、長方形の箱が4つ入ってた。[lc]
+
+#榊原
+何だこれ？[lc]
+[chara_part name=ciel body=1 eye=11 mouth=6 eyeblow=1 effect=0]
+#シエル
+バクラヴァというお菓子です。[lr]
+澄ましバターで作られているので長持ちしますし、冷凍保存もできます。[lc]
+[chara_part name=ciel body=1 eye=12 mouth=2 eyeblow=4 effect=0]
+#シエル
+昨日親戚から送られて来たのですが、甘ったるいものは苦手でして。[lc]
+[chara_part name=ciel body=1 eye=11 mouth=2 eyeblow=2 effect=0]
+#シエル
+副会長にでも押しつけるつもりでしたが、お近づきの印として[r]
+君にあげます。[lc]
+#榊原
+お近づき…………？[lc]
+[chara_part name=ciel body=1 eye=11 mouth=6 eyeblow=1 effect=0]
+#シエル
+君とは仲良くなれる気がします。[lr]
+気が向いたらで構わないので、また僕とお話して下さい。[lc]
+#榊原
+ああ。[lr]
+じゃあ、連絡先交換しておくか？[lc]
+[chara_part name=ciel body=1 eye=6 mouth=6 eyeblow=2 effect=0]
+#シエル
+はい、お願いします。[lc]
+
+#
+そうして、ウィリスとも連絡先を交換した。[lr]
+
+#榊原
+じゃ、そろそろ行くよ。[lr]
+ハンカチ返したあとに部室に行くことになってるんだ。[lc]
+[chara_part name=ciel body=1 eye=11 mouth=8 eyeblow=2 effect=0]
+#シエル
+そうだったんですか。[lr]
+長らく引き止めてしまって申し訳ありません。[lc]
+#榊原
+大丈夫だよ。[lr]
+じゃ、またな。[lc]
+[chara_part name=ciel body=1 eye=11 mouth=2 eyeblow=2 effect=0]
+#シエル
+ええ、また。[lc]
+
+#
+[bg_music_foi bgstr="rouka1-3.jpg" musicstr="16.aiwohitohira.ogg"]
+
+生徒会室を出て少し離れて、紙袋に目を落とす。[lr]
+そのまま中を覗き込んで、中身をよく確認する。[lr]
+神楽坂先生も含めて分けるにしたって多い。[lr]
+
+[bg_music_foi bgstr="okujou1-2.jpg" musicstr="41.kazenosasayaki.ogg"]
+
+最初に向かったのは屋上。[lr]
+ただ、見ていたのは自分の掌だった。[lr]
+
+#榊原
+何見てるんだ？[lc]
+[chara_part name=miu body=1 eye=5 mouth=9 eyeblow=1 effect=0]
+[chara_hide name="ciel]
+[s_show name="miu" zoom=ma]
+#美羽
+────！！
+[chara_part name=miu body=1 eye=7 mouth=4 eyeblow=4 effect=0]
+#美羽
+…………って、何だあんたか。[lc]
+#榊原
+何だって何だよ、流石に傷つくぞ。[lc]
+[chara_part name=miu body=1 eye=7 mouth=4 eyeblow=1 effect=0]
+#美羽
+あーはいはい、それは悪うございました。[lc]
+
+#
+言いながら安達さんは持ってた物をポケットに捩じ込んだ。[lr]
+
+#榊原
+何見てたんだ？[lc]
+[chara_part name=miu body=1 eye=3 mouth=10 eyeblow=3 effect=0]
+#美羽
+っ……あんたに関係ない。[lc]
+#榊原
+一瞬ハートに見えたから、この前のストラップかと思ったんだけど。[lc]
+[chara_part name=miu body=1 eye=4 mouth=7 eyeblow=3 effect=0]
+#美羽
+…………どんな動体視力してんのよ。[lc]
+#榊原
+普通じゃないか？[lc]
+[chara_part name=miu body=1 eye=7 mouth=7 eyeblow=3 effect=0]
+#美羽
+……………………。
+#榊原
+随分と大切そうだな、そのストラップ。[lc]
+[chara_part name=miu body=1 eye=4 mouth=1 eyeblow=1 effect=0]
+#美羽
+…………それが何か？[lc]
+#榊原
+いや、そんなに大切なら誰か大事な人からの貰い物なのかなって。[lc]
+[chara_part name=miu body=1 eye=3 mouth=10 eyeblow=3 effect=0]
+#美羽
+あんたに関係ないよ。[lc]
+[chara_part name=miu body=1 eye=1 mouth=4 eyeblow=3 effect=0]
+#美羽
+そんなことより、部活はどうしたのよ。[lr]
+ここまで顔なんか出して。[lc]
+
+こうもあからさまに話題を変えてきたってことは、触れて欲しくない[r]
+ことらしい。[lc]
+
+#榊原
+部活はこれから向かうよ。[lr]
+でも、その前に安達さんに用があって。[lc]
+[chara_part name=miu body=1 eye=7 mouth=4 eyeblow=4 effect=0]
+#美羽
+……よくもまぁ用事ができるわね、あたし相手に。[lc]
+#榊原
+まぁな。[lr]
+安達さん、甘いものは平気か？[lc]
+[chara_part name=miu body=1 eye=5 mouth=9 eyeblow=1 effect=0]
+#美羽
+えっ？[lc]
+[chara_part name=miu body=1 eye=1 mouth=4 eyeblow=1 effect=0]
+#美羽
+まぁ、割と好きだけど……それが何よ？[lc]
+#榊原
+さっきウィリスにハンカチ返しに行った時、土産を貰ってさ。[lr]
+安達さんにもお裾分けをと思って。[lc]
+[chara_part name=miu body=1 eye=5 mouth=9 eyeblow=1 effect=0]
+#美羽
+…………あんた、どんだけ生徒会長と仲良くなってんのよ…………。[lc]
+
+#
+箱を1つ取って差し出せば、安達さんは若干間の抜けた声を出しながら[r]
+俺と箱を見比べてる。[lc]
+
+#榊原
+まぁ、仲良くなれそうだとは言われたよ。[lc]
+[chara_part name=miu body=1 eye=5 mouth=9 eyeblow=1 effect=0]
+#美羽
+すごい気に入られようねぇ……。[lc]
+[chara_part name=miu body=1 eye=1 mouth=9 eyeblow=2 effect=0]
+#美羽
+ところで、これ何？[lc]
+#榊原
+確か、バクラヴァって言ってた気がする。[lr]
+甘ったるい菓子らしい。[lc]
+[chara_part name=miu body=1 eye=3 mouth=1 eyeblow=1 effect=0]
+#美羽
+ふーん……？[lc]
+[chara_part name=miu body=1 eye=4 mouth=1 eyeblow=1 effect=0]
+#美羽
+まぁ、貰っとくわよ。[lr]
+1人で食べきれるか分からないけど。[lc]
+#榊原
+冷凍保存もできるらしいし、ゆっくり食べればいいんじゃないか？[lc]
+[chara_part name=miu body=1 eye=3 mouth=1 eyeblow=1 effect=0]
+#美羽
+そう。[lc]
+#榊原
+それじゃ、もう行くよ。[lc]
+[chara_part name=miu body=1 eye=7 mouth=4 eyeblow=1 effect=0]
+#美羽
+はいはい。[lc]
+
+#
+[bg_music_foi bgstr="rouka1-3.jpg" musicstr="16.aiwohitohira.ogg"]
+
+次に向かったのは、4階の空き教室。[lr]
+
+[bg_foi storage="kyoushitsu2-2.jpg"]
+
+
+[chara_part name=mei body=1 eye=5 mouth=6 eyeblow=2 effect=5]
+[chara_hide name="miu]
+[s_show name="mei" zoom=ma]
+#命
+あっ、榊原さん！[lc]
+#榊原
+よう。[lc]
+[chara_part name=mei body=1 eye=1 mouth=4 eyeblow=1 effect=5]
+#命
+どうしたんですか？[lr]
+てっきり部活に行ってると思ってましたが……。[lc]
+#榊原
+ああ、ちょっと相原さんに用があって。[lc]
+[chara_part name=mei body=1 eye=1 mouth=1 eyeblow=1 effect=5]
+#命
+私に？[lc]
+#榊原
+相原さん、甘いものって食べられるか？[lc]
+[chara_part name=mei body=1 eye=6 mouth=6 eyeblow=2 effect=5]
+#命
+はい、むしろ大好きです！[lc]
+#榊原
+実は昨日、ウィリスからハンカチ借りて──。[lc]
+[chara_part name=mei body=1 eye=5 mouth=10 eyeblow=1 effect=5]
+#命
+えっ、生徒会長さんから！？[lc]
+#榊原
+相原さんも知ってるんだ。[lc]
+[chara_part name=mei body=1 eye=1 mouth=6 eyeblow=1 effect=5]
+#命
+はい、クラスが一緒なんです！[lc]
+[chara_part name=mei body=1 eye=1 mouth=9 eyeblow=5 effect=5]
+#命
+……話したことは、一度もありませんが。[lc]
+[chara_part name=mei body=1 eye=1 mouth=4 eyeblow=1 effect=5]
+#命
+それで、生徒会長さんからハンカチを借りて？[lc]
+#榊原
+[chara_part name=mei body=1 eye=5 mouth=9 eyeblow=2 effect=5]
+#命
+……榊原さん、生徒会長さんと仲良しですね……。[lc]
+
+#
+安達さんと同じ間の抜けた声でそう言った相原さん。[lc]
+
+#榊原
+安達さんも言ってたな、それ……。[lr]
+そんなに友達少ないのか？あいつ。[lc]
+[chara_part name=mei body=1 eye=4 mouth=1 eyeblow=5 effect=5]
+#命
+少ないと言えば少ないんですけど、生徒会長さん自身が人と[r]
+関わりたがらないというか……。[lc]
+[chara_part name=mei body=1 eye=1 mouth=9 eyeblow=5 effect=5]
+#命
+誰か話しかけてもお話はしてくれますが、全然楽しそうじゃないんです。[lc]
+#榊原
+まさか。[lc]
+[chara_part name=mei body=1 eye=5 mouth=10 eyeblow=5 effect=5]
+#命
+ほ、本当です。[lc]
+[chara_part name=mei body=1 eye=3 mouth=7 eyeblow=5 effect=9]
+#命
+私が見た限り、ですけど…………。[lc]
+#榊原
+あいつがなぁ……。[lc]
+
+#
+俺と話してる時は、そこそこ楽しそうには見えたんだが……。[lr]
+思うけど…………。[lc]
+
+
+[chara_part name=mei body=1 eye=1 mouth=6 eyeblow=1 effect=5]
+#命
+と、とにかく、ありがとうございます。[lc]
+[chara_part name=mei body=1 eye=1 mouth=1 eyeblow=1 effect=5]
+#命
+これ、何なんですか？[lc]
+#榊原
+バクラヴァ、甘ったるい菓子らしい。[lc]
+[chara_part name=mei body=1 eye=1 mouth=4 eyeblow=1 effect=5]
+#命
+バクラヴァですか……初めて聞きました。[lc]
+[chara_part name=mei body=1 eye=1 mouth=6 eyeblow=1 effect=5]
+#命
+家に帰ったら早速食べますね。[lc]
+#榊原
+冷凍保存もできるらしいから、急がなくても大丈夫だぞ。[lr]
+それじゃ、俺はそろそろ部室に行くよ。[lc]
+[chara_part name=mei body=1 eye=6 mouth=6 eyeblow=2 effect=5]
+#命
+はい、ではまた。[lc]
+#榊原
+また明日。[lc]
+
+#
+[bg_music_foi bgstr="rouka1-3.jpg" musicstr="18.teacapnoshiawase.ogg"]
+
+寄り道に寄り道を重ねた末、ようやく到着した部室。[lr]
+
+[bg_foi storage="bushitsu1-3.jpg"]
+
+#榊原
+お待たせ。[lc]
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=6 effect=6]
+[chara_hide name="mei]
+[s_show name="saki" zoom=ma]
+#早希
+あーっ、榊原くんやっと来たー！[lc]
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=6 effect=6]
+[chara_part name=sayo body=1 eye=6 mouth=3 eyeblow=2 effect=6]
+[chara_add name="sayo" org="saki" zoom=ma size=small]
+#小夜
+んー！[lc]
+[chara_part name=shiori body=1 eye=2 mouth=4 eyeblow=1 effect=6]
+[chara_hide name="saki]
+[s_show name="shiori" zoom=ma]
+[chara_part name=sayo body=1 eye=6 mouth=3 eyeblow=2 effect=6]
+[chara_hide name="saki]
+#栞
+ハンカチ返しに行ってたにしては随分遅かったじゃない、どうしたの？[lc]
+#榊原
+返して帰ろうとしたんですけど、そのまま話し込んじゃって。[lr]
+そしたら、何か土産までくれました。[lc]
+[chara_part name=saki body=1 eye=5 mouth=6 eyeblow=1 effect=6]
+[chara_hide name="shiori]
+[s_show name="saki" zoom=ma]
+[chara_part name=sayo body=1 eye=6 mouth=3 eyeblow=2 effect=6]
+[chara_hide name="shiori]
+#早希
+えっ、お土産！？[lc]
+[chara_part name=saki body=1 eye=5 mouth=6 eyeblow=1 effect=6]
+[chara_part name=sayo body=1 eye=1 mouth=2 eyeblow=1 effect=6]
+#小夜
+ん！[lc]
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=1 effect=6]
+[chara_part name=sayo body=1 eye=1 mouth=2 eyeblow=1 effect=6]
+#早希
+何貰ったの？　何貰ったの！？[lc]
+
+#
+わくわくしてる女子2人の前で箱を取り出し、開封する。[lr]
+中に入ってたのは、パイみたいに薄い生地が何枚も重なった形状の菓子。[lc]
+
+
+[chara_part name=saki body=1 eye=1 mouth=4 eyeblow=1 effect=6]
+[chara_hide name="sayo]
+#早希
+何じゃいこりゃ？[lc]
+[chara_part name=saki body=1 eye=1 mouth=4 eyeblow=1 effect=6]
+[chara_part name=sayo body=1 eye=1 mouth=1 eyeblow=1 effect=6]
+[chara_add name="sayo" org="saki" zoom=ma size=small]
+#小夜
+んー？[lc]
+[chara_part name=saki body=1 eye=1 mouth=4 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=3 mouth=3 eyeblow=1 effect=6]
+[chara_hide name="sayo]
+[chara_add name="shiori" org="saki" zoom=ma size=small]
+#栞
+あら、バクラヴァじゃない。[lr]
+懐かしいわ。[lc]
+[chara_part name=saki body=1 eye=1 mouth=1 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=3 mouth=3 eyeblow=1 effect=6]
+#早希
+知ってるんですか？[lc]
+[chara_part name=saki body=1 eye=1 mouth=1 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=1 mouth=3 eyeblow=2 effect=6]
+#栞
+小さい頃に何度か食べたことがあるの。[lr]
+ものすごく甘いお菓子よ。[lc]
+[chara_part name=saki body=1 eye=1 mouth=1 eyeblow=1 effect=6]
+[chara_part name=sayo body=1 eye=6 mouth=3 eyeblow=2 effect=6]
+[chara_hide name="shiori]
+[chara_add name="sayo" org="saki" zoom=ma size=small]
+#小夜
+んー！[lc]
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=1 effect=6]
+[chara_part name=sayo body=1 eye=6 mouth=3 eyeblow=2 effect=6]
+#早希
+そだねー、早速食べよっか！[lc]
+
+#
+と言って、早希は棚から使い捨ての皿とフォークを人数分取り出した。[lr]
+ついでに紙コップと紅茶まで出てきた。[lc]
+
+#榊原
+何でそんなのサラッと出てくる。[lc]
+[chara_part name=saki body=1 eye=10 mouth=6 eyeblow=6 effect=6]
+[chara_hide name="sayo]
+#早希
+こんなこともあろうかと思って。[lc]
+#榊原
+普通思わないだろ……。[lc]
+[chara_part name=saki body=1 eye=1 mouth=6 eyeblow=1 effect=6]
+#早希
+えーと、12個だから……1人3個だね。[lc]
+
+#
+手早く早希が取り分け、紙コップに紅茶を注ぐ。[lr]
+若干バラバラないただきますと共に、バクラヴァに口をつける。[lc]
+
+
+[chara_part name=sayo body=1 eye=6 mouth=3 eyeblow=2 effect=6]
+[chara_hide name="saki]
+[s_show name="sayo" zoom=ma]
+#小夜
+んんーっ！[lc]
+[chara_part name=sayo body=1 eye=6 mouth=3 eyeblow=2 effect=6]
+[chara_part name=saki body=1 eye=1 mouth=4 eyeblow=1 effect=6]
+[chara_add name="saki" org="sayo" zoom=ma size=small]
+#早希
+思ってたよりずっと甘いねー。[lc]
+[chara_part name=sayo body=1 eye=6 mouth=3 eyeblow=2 effect=6]
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=1 effect=6]
+#早希
+でも、紅茶がいい感じに口直ししてくれて、とっても美味しく[r]
+食べられるね！[lc]
+[chara_part name=shiori body=1 eye=6 mouth=5 eyeblow=2 effect=6]
+[chara_hide name="sayo]
+[s_show name="shiori" zoom=ma]
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=1 effect=6]
+[chara_hide name="sayo]
+#栞
+昔食べた物より美味しいわ。[lc]
+[chara_part name=shiori body=1 eye=1 mouth=3 eyeblow=2 effect=6]
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=1 effect=6]
+#栞
+ウィリスさんがくれた物だし、やっぱり高級品なのかしら？[lc]
+#榊原
+親戚から貰ったとは言ってました。[lc]
+[chara_part name=shiori body=1 eye=1 mouth=2 eyeblow=1 effect=6]
+[chara_part name=saki body=1 eye=1 mouth=6 eyeblow=1 effect=6]
+#早希
+じゃ、やっぱお高い物なのかなー。[lr]
+味わって食べとこ。[lc]
+[chara_part name=sayo body=1 eye=2 mouth=3 eyeblow=2 effect=6]
+[chara_hide name="shiori]
+[s_show name="sayo" zoom=ma]
+[chara_part name=saki body=1 eye=1 mouth=6 eyeblow=1 effect=6]
+[chara_hide name="shiori]
+#小夜
+んー。[lc]
+#榊原
+もう1個食い終わったのか小夜！？[lc]
+[chara_part name=sayo body=1 eye=2 mouth=3 eyeblow=2 effect=6]
+[chara_part name=shiori body=1 eye=6 mouth=5 eyeblow=2 effect=6]
+[chara_hide name="saki]
+[chara_add name="shiori" org="sayo" zoom=ma size=small]
+#栞
+小夜ちゃんは甘いものが大好きだものね。[lc]
+[chara_part name=sayo body=1 eye=6 mouth=3 eyeblow=2 effect=6]
+[chara_part name=shiori body=1 eye=6 mouth=5 eyeblow=2 effect=6]
+#小夜
+ん！[lc]
+#榊原
+よくそんなに早く食えるな……。[lc]
+[chara_part name=saki body=1 eye=1 mouth=4 eyeblow=1 effect=6]
+[chara_hide name="sayo]
+[s_show name="saki" zoom=ma]
+[chara_part name=shiori body=1 eye=1 mouth=2 eyeblow=1 effect=6]
+[chara_hide name="sayo]
+#早希
+あれ、榊原くんは甘いのお嫌い？[lc]
+#榊原
+いや、美味いし嫌いじゃないけど……。[lc]
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=1 mouth=2 eyeblow=1 effect=6]
+#早希
+私も2個目いこーっと。[lc]
+[chara_part name=saki body=1 eye=1 mouth=6 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=1 mouth=2 eyeblow=1 effect=6]
+#早希
+あ、先生のも取りましょうか？[lc]
+[chara_part name=saki body=1 eye=1 mouth=6 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=1 mouth=3 eyeblow=1 effect=6]
+#栞
+私は1個で十分だわ。[lc]
+[chara_part name=saki body=1 eye=5 mouth=6 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=1 mouth=3 eyeblow=1 effect=6]
+#早希
+あっ、じゃあ食べていいですか！？[lc]
+[chara_part name=saki body=1 eye=5 mouth=6 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=6 mouth=5 eyeblow=2 effect=6]
+#栞
+ええ、いいわよ。[lc]
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=6 mouth=5 eyeblow=2 effect=6]
+#早希
+わーい、1個増えたよ小夜ちゃん！[lc]
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=1 effect=6]
+[chara_part name=sayo body=1 eye=6 mouth=3 eyeblow=2 effect=6]
+[chara_hide name="shiori]
+[chara_add name="sayo" org="saki" zoom=ma size=small]
+#小夜
+んー！[lc]
+
+#
+紅茶のせいか少し不味く感じた。[lr]
+私立校とは言え、高級な紅茶が支給されるとは考えにくいし……。[lc]
+
+[playse storage="chakusinn1.ogg" loop=true]
+
+#榊原
+ん？[lc]
+
+#
+スマホを突っ込んであるブレザーのポケットが震動してる。[lr]
+確認してみると、着信画面に出てるのはウィリスの名前。[lc]
+
+#榊原
+もしもし、ウィリス？〔SE:37/CI〕[lc]
+[stopse][playse storage="denwaderu.ogg" loop=false]
+
+#
+電話に出た瞬間、全員にギョッとされた。[lr]
+
+
+[chara_hide_all]
+#シエル
+榊原君、今どこにいますか？[lc]
+#榊原
+どこって……部室だが。[lc]
+
+#シエル
+ああ……じゃあ、そろそろ襲来すると思います[lc]
+#榊原
+えっ、襲来？[lc]
+
+#シエル
+実は副会長に──。[lc]
+
+#瑠美
+御免あそばせ！！〔SE:25/CI〕[lc]
+[stopbgm][playse storage="kyoushitsuakeru2.ogg" loop=false]
+
+#
+突然の扉を開け放った音に肩が大きく跳ねる。[lc]
+
+
+[chara_part name=rumi body=1 eye=5 mouth=8 eyeblow=3 effect=6]
+[chara_hide name="saki]
+[s_show name="rumi" zoom=ma]
+#瑠美
+やっぱりここに居ましたのね！！[lc]
+[playbgm storage="isoidenomu.ogg" loop=true]
+[chara_part name=saki body=1 eye=9 mouth=9 eyeblow=3 effect=6]
+[chara_hide name="rumi]
+[s_show name="saki" zoom=ma]
+#早希
+あーっ、ケチケチ副会長！[lc]
+[chara_part name=rumi body=1 eye=9 mouth=8 eyeblow=3 effect=6]
+[chara_hide name="saki]
+[s_show name="rumi" zoom=ma]
+#瑠美
+何ですのそのふざけた呼び方！！[lc]
+[chara_part name=rumi body=1 eye=5 mouth=8 eyeblow=3 effect=6]
+#瑠美
+……って、そうじゃありませんわ！！[lc]
+[chara_part name=rumi body=1 eye=5 mouth=8 eyeblow=3 effect=6]
+#瑠美
+榊原さん、どういうことか説明して下さいまし！！[lc]
+#榊原
+説明？
+[chara_hide_all]
+#シエル
+どういうわけか、生徒会室で君と話していたことが副会長の耳に[r]
+入ったみたいで……。[lc]
+#榊原
+あ、それ？[lc]
+
+#シエル
+それです。[lc]
+[chara_part name=rumi body=1 eye=9 mouth=8 eyeblow=3 effect=6]
+#瑠美
+わたくしの質問を無視とは、いい度胸ですわね！！[lr]
+そんなことより、さっさと説明を！！[lc]
+[chara_hide_all]
+#シエル
+……榊原君、副会長と代わって下さい。[lc]
+#榊原
+お、おう。[lc]
+
+#
+どの道俺じゃ対処しきれそうにないし、遠慮なく桜庭さんにスマホを[r]
+差し出す。[lc]
+
+#榊原
+桜庭さんに代わってくれって。[lc]
+[chara_part name=rumi body=1 eye=3 mouth=3 eyeblow=3 effect=6]
+#瑠美
+何ですの一体……。[lc]
+
+#
+乱暴な手つきでスマホをひったくられた。[lc]
+
+
+[chara_part name=rumi body=1 eye=9 mouth=8 eyeblow=3 effect=6]
+#瑠美
+もしもし！？[lr]
+どこのどなたか存じ上げませんが、わたくしは今とても忙し──。[lc]
+[chara_hide_all]
+#シエル
+いっそ本当にどこのどなたか存じ上げない間柄になりたいものですね、[r]
+こんなことされるなら。[lc]
+[stopbgm]
+[chara_part name=rumi body=1 eye=5 mouth=3 eyeblow=1 effect=6]
+#瑠美
+えっ。[lc]
+
+#
+……何か今、結構酷い言葉が聞こえた気がする。[lc]
+
+
+[chara_hide_all]
+#シエル
+仕事放ったらかして何してるんですか、あなたは。[lc]
+[fadeinbgm storage="himatsubushi01.ogg" loop=true]
+[chara_part name=rumi body=1 eye=5 mouth=3 eyeblow=1 effect=6]
+#瑠美
+か、会長…………えっ？[lr]
+これ、榊原さんのスマホ──。[lc]
+[chara_hide_all]
+#シエル
+僕の質問を無視とは、いい度胸ですね。[lc]
+[chara_part name=rumi body=1 eye=5 mouth=8 eyeblow=5 effect=6]
+#瑠美
+もっ申し訳ございません！[lr]
+榊原さんが会長と密会していたとのことで、問い詰めておりました！[lc]
+
+密会って…………。[lc]
+
+
+[chara_hide_all]
+#シエル
+……まぁいいです、とりあえず戻ってきて下さい。[lr]
+あなたじゃないと任せられない仕事があるんです。》[lc]
+[chara_part name=rumi body=1 eye=6 mouth=5 eyeblow=1 effect=6]
+#瑠美
+はい、会長のご用命とあらば！！！[lc]
+[chara_part name=rumi body=1 eye=6 mouth=5 eyeblow=1 effect=6]
+#榊原
+俺のスマホ！！[lc]
+
+#
+桜庭さんはスマホを放り投げて、ドアも閉めずに走り去ってった。[lr]
+
+#榊原
+……ウィリス。
+[chara_hide_all]
+#シエル
+……昨日の今日で申し訳ございません。[lc]
+#榊原
+ウィリスが謝ることじゃないさ、本人には色々謝ってほしいけど。[lr]
+でも、何で俺がお前と話してただけで詰め寄ってきたんだ？[lc]
+
+#シエル
+#榊原
+…………ああ。[lc]
+
+#
+何だか電話の向こうで死んだ目になったウィリスが見えた気がした。[lc]
+
+
+
+#シエル
+昨日のこともあって、僕と親しげなのが気に食わなかったのでしょう。[lr]
+#榊原
+大変だな……俺で良かったら、いつでも相談乗るよ。[lc]
+
+#シエル
+……ありがとうございます。[lr]
+そろそろ戻ってくると思うので切りますね。》[lc]
+#榊原
+ああ、またな。[lc]
+
+#シエル
+ええ、また。[lc]
+
+#
+電話を切る寸前、テンション高めの桜庭さんの声が微かに聞こえた。[lr]
+何を言っていたかは分からなかったが、何となくイラッとした。[lc]
+
+
+[chara_part name=saki body=1 eye=3 mouth=4 eyeblow=3 effect=6]
+[chara_hide name="rumi]
+[s_show name="saki" zoom=ma]
+#早希
+会長さん、何だって？[lc]
+[fadeoutbgm]
+
+#
+[playse storage="kyoushitsushimeru1.ogg" loop=false]
+ウィリスから聞いたことを簡単に説明する。[lc]
+
+
+[chara_part name=saki body=1 eye=1 mouth=4 eyeblow=3 effect=6]
+#早希
+えー何それ、すっごい迷惑。[lc]
+[fadeinbgm storage="chiisanaiwakan.ogg" loop=true]
+[chara_part name=saki body=1 eye=1 mouth=4 eyeblow=3 effect=6]
+[chara_part name=shiori body=1 eye=4 mouth=1 eyeblow=4 effect=6]
+[chara_add name="shiori" org="saki" zoom=ma size=small]
+#栞
+そうね……人の交友関係に口を出すのはどうかと思うわ。[lc]
+[chara_part name=sayo body=1 eye=3 mouth=7 eyeblow=4 effect=6]
+[chara_hide name="saki]
+[s_show name="sayo" zoom=ma]
+[chara_part name=shiori body=1 eye=4 mouth=1 eyeblow=4 effect=6]
+[chara_hide name="saki]
+#小夜
+…………ぅ……。[lc]
+[chara_part name=sayo body=1 eye=3 mouth=7 eyeblow=4 effect=6]
+[chara_part name=shiori body=1 eye=2 mouth=4 eyeblow=4 effect=6]
+#栞
+怖かったわね小夜ちゃん、大丈夫よ。[lc]
+
+#
+神楽坂先生は小夜の背中を擦ってる。[lc]
+
+
+[chara_part name=saki body=1 eye=7 mouth=9 eyeblow=3 effect=6]
+[chara_hide name="sayo]
+[chara_hide name="shiori]
+[s_show name="saki" zoom=ma]
+#早希
+おまけにあの副会長、学生支援部のこと不要とか言っちゃってさぁ！[lr]
+生徒のケアは生徒会の仕事とか言って！[lc]
+[chara_part name=saki body=1 eye=7 mouth=9 eyeblow=3 effect=6]
+[chara_part name=shiori body=1 eye=4 mouth=1 eyeblow=4 effect=6]
+[chara_add name="shiori" org="saki" zoom=ma size=small]
+#栞
+ああ……そう言えば、確かそうだったわね。[lc]
+#榊原
+神楽坂先生、知ってたんですか？[lc]
+[chara_part name=saki body=1 eye=1 mouth=1 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=1 mouth=3 eyeblow=4 effect=6]
+#栞
+生徒会と関係ないとは言え、教員だから。[lc]
+[chara_part name=saki body=1 eye=1 mouth=1 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=4 mouth=1 eyeblow=4 effect=6]
+#栞
+[chara_part name=saki body=1 eye=1 mouth=2 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=4 mouth=1 eyeblow=4 effect=6]
+#早希
+うーん、先生の気のせいじゃないですか？[lr]
+あの副会長はやらなさそうだけど、会長さんはいい人そうだし。[lc]
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=4 mouth=1 eyeblow=4 effect=6]
+#早希
+私達の知らないところでたくさん人助けしてますよ、きっと！[lc]
+[chara_part name=saki body=1 eye=6 mouth=6 eyeblow=1 effect=6]
+[chara_part name=shiori body=1 eye=1 mouth=3 eyeblow=4 effect=6]
+#栞
+確かに、私がそう思ってるだけかもね……。[lr]
+生徒会の職務はそれだけじゃないし、それをやるのも生徒だものね。[lc]
+
+
+[bg_foi storage="blackout.jpg"]
+
+
+[chara_part name=mei body=1 eye=1 mouth=9 eyeblow=5 effect=5]
+[chara_hide name="saki]
+[s_show name="mei" zoom=ma]
+誰か話しかけてもお話はしてくれますが、全然楽しそうじゃないんです。[lc]
+
+相原さんの言葉が頭に引っかかる。[lr]
+でも、俺が話した限り、そんな印象は全くなかったんだが……。[lr]
+頭が妙にモヤモヤしたまま、結局その日の部活はバクラヴァを[r]
+食べただけで終わった。
+[lc]
